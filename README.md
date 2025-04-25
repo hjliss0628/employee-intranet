@@ -17,7 +17,7 @@ After opening the program, you will be prompted with multiple button choices.
 
 ### Run Automation
 
-Begins the automatic state and firm calendar search.
+Begins the automatic state and firm calendar search. It will prompt you to sign into Clio and you can sign-in or close the window.
 
 ### Edit Run Link
 
