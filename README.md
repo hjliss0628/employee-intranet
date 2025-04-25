@@ -1,6 +1,6 @@
 # Employee Intranet Installer
 
-This repository serves as the update and distribution hub for the **Employee Intranet** application.
+This repository serves as the update and distribution hub for the Employee Intranet application.
 
 ## Overview
 
@@ -20,6 +20,7 @@ After opening the program, you will be prompted with multiple button choices. I 
 ### Run Automation
 
 Begins the automatic state and firm calendar search. It will prompt you to sign into Clio and you can sign-in, or alternatively close the window.
+When the automation is finished running, it will prompt you to save an excel file containing the raw results, matches, and flags.
 
 ### Edit Run Link
 
@@ -27,7 +28,7 @@ Edits the configuration for the spreadsheet with all current cases. It will defa
 
 ### Set Max Instances
 
-Edits the configuration for the maximum number of searches to be performed at once; 5-10 is optimal, but if you are having issues try a lower number (must be 1 or higher).
+Edits the configuration for the maximum number of searches to be performed at once; 5-10 will be the fastest, but if you are having issues try a lower number (must be 1 or higher).
 
 ### Select Browser
 
