@@ -15,19 +15,19 @@ If Windows Defender prompts you while installing the application, click More Inf
 
 ## Usage
 
-After opening the program, you will be prompted with multiple button choices.
+After opening the program, you will be prompted with multiple button choices. I recommend running through the configuration options before running the automation.
 
 ### Run Automation
 
-Begins the automatic state and firm calendar search. It will prompt you to sign into Clio and you can sign-in or close the window.
+Begins the automatic state and firm calendar search. It will prompt you to sign into Clio and you can sign-in, or alternatively close the window.
 
 ### Edit Run Link
 
-Edits the configuration for the spreadsheet with all current cases.
+Edits the configuration for the spreadsheet with all current cases. It will default to the correct link.
 
 ### Set Max Instances
 
-Edits the configuration for the maximum number of searches to be performed at once; 5-10 is optimal.
+Edits the configuration for the maximum number of searches to be performed at once; 5-10 is optimal, but if you are having issues try a lower number (must be 1 or higher).
 
 ### Select Browser
 
