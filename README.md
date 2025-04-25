@@ -11,6 +11,8 @@ This repo contains:
 
 The main application checks this repository during startup to verify if a newer version is available.
 
+If Windows Defender prompts you while installing the application, click More Info and Run anyway.
+
 ## Usage
 
 After opening the program, you will be prompted with multiple button choices.
