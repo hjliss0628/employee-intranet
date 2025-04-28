@@ -34,6 +34,10 @@ Edits the configuration for the maximum number of searches to be performed at on
 
 Edits the configuration to specify a different browser other than your default system browser.
 
+### Enter Debugging
+
+Resets your configuration to default; opens a console and displays what is happening in the program.
+
 ### Define Ignore List
 
 Edits the configuration to add lists of counties to ignore in the District and County courts. By default, the counties not included on the Multi Court Calendar are added to the District ignore list, but more counties can be added to either list.
